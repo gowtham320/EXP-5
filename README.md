@@ -30,7 +30,8 @@ PROCEDURE:
 
 circuit diagram:
 
-![exp5c](https://github.com/user-attachments/assets/39355d64-ffb1-4f44-825c-9ec984ab849e)
+
+![exp5c](https://github.com/user-attachments/assets/5318b2a0-3b8e-4e51-a409-e94c03f24e23)
 
 line regulation:
 
