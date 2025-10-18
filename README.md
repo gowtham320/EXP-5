@@ -26,12 +26,30 @@ PROCEDURE:
 2. The Regulated power supply voltage is increased in steps.
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
-4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:
+5. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 
-REGULATION CHARACTERISTICS:
+circuit diagram:
 
-V-I & REGULATION CHARACTERISTICS:
+![exp5c](https://github.com/user-attachments/assets/39355d64-ffb1-4f44-825c-9ec984ab849e)
+
+line regulation:
+
+![exp5t1](https://github.com/user-attachments/assets/5ed48cff-7ed4-4f6e-af89-3f3069406536)
+
+load regulation:
+
+![exp5t2](https://github.com/user-attachments/assets/c3d645f2-786e-4c8c-b493-3ce551c7f074)
+
+model graph:
+
+line regulation:
+
+![exp5g1](https://github.com/user-attachments/assets/6452b26b-b3ad-415a-8dc5-33707fe1b873)
+
+load regulation:
+![exp5g2](https://github.com/user-attachments/assets/079b7b7e-a43c-4f40-8c4b-80ed606ff4de)
+
+
 
 PRECAUTIONS:
 
